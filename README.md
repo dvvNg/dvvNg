@@ -1,5 +1,9 @@
 ## Hi there, I am Vladimir Dmitryk 👋
 
+
+<p>I am Pega Certified System Architect with experience (10 Yrs.) in design and development of components, code review, develop UI. Experience of implementation 5 large Pega projects.
+Experience of implementation 2 Oracle APEX projects.</p>
+
 <!--
 **dvvNg/dvvNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
