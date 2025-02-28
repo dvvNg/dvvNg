@@ -1,5 +1,5 @@
-## Hi there, I am Vladimir Dmitryk 👋
-<h1 align="center">Hi there, I am Vladimir Dmitryk </h1>
+## <h1align="center"> Hi there, I am Vladimir Dmitryk </h1>👋
+
 <!--
 **dvvNg/dvvNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
